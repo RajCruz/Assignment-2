@@ -10,7 +10,7 @@ def read_root():
     data = {
         "Owner": "Gautam",
         "Author": "Adani",
-        "Additional_info": {  # You can add nested dictionaries here
+        "Additional_info": {  
             "key1": "SEZ Limited-01",
             "key2": "Airport Holdings ",
         }, 
