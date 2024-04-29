@@ -14,7 +14,7 @@ def read_root():
             "key1": "SEZ Limited-01",
             "key2": "Airport Holdings ",
         }, 
-    }
+    {
     return data
 
 
